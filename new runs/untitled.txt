@@ -1,0 +1,2 @@
+poincare plot for weights and bias
+weight and gradient 
